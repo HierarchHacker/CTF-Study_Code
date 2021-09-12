@@ -1,0 +1,4 @@
+ToolSet: w64 7.0 (local)@D:\Net_Sec\lib\mingw\MinGW
+Options: 
+
+Options:
